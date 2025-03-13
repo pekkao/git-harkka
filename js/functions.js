@@ -1,0 +1,1 @@
+/* Tänne JavaScript-funktiot jne. */
